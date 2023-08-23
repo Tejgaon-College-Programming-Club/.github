@@ -1,4 +1,5 @@
-import "./globals.css";
+import "@styles/globals.css";
+import "nprogress/nprogress.css";
 import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import Navigation from "./components/navigation";
